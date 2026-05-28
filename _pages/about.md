@@ -26,6 +26,6 @@ Lucie Galland is a Postdoctoral Researcher at the Laboratoire d'Informatique et 
 
 She received her PhD from Sorbonne Université (Institut des Systèmes Intelligents et de Robotique, ISIR), where she developed adaptive dialogic models utilizing Reinforcement Learning (RL). She is also an alumna of the École Normale Supérieure (ENS) Paris, where she completed both undergraduate and graduate studies, including the Mathematics, Vision, and Learning (MVA) Master's program.
 
-Throughout her career, she has investigated the integration of multimodal artificial intelligence and cognitive sciences, contributing to the advancement of socio-emotional conversational agents. Her research has appeared in venues including Frontiers in AI, IEEE Face and Gesture, and ACM Intelligent Virtual Agents. In addition to her research activities, she serves as a reviewer for IEEE Transactions on Affective Computing and as the Web and Social Media Chair for IVA 2026.
+Throughout her career, she has investigated the integration of multimodal artificial intelligence and cognitive sciences, contributing to the advancement of socio-emotional conversational agents. Her research has appeared in venues including Frontiers in AI, IEEE Face and Gesture, and ACM Intelligent Virtual Agents. In addition to her research activities, she serves as a reviewer for IEEE Transactions on Affective Computing, as the Web and Social Media Chair for IVA 2026 and organizing comitee of <a href="[inner/file.html](https://wacai2026.sciencesconf.org/)" >WACAI 2026</a>.
 
 
