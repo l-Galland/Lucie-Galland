@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   mVab0u4AAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -13,6 +13,10 @@ papers:
     citations: 5
     title: Generating unexpected yet relevant user dialog acts
     year: '2024'
+  mVab0u4AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Towards Trust Calibration in Socially Interactive Agents: Investigating Gendered Multimodal Behaviors Generation with LLMs'
+    year: '2026'
   mVab0u4AAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: "\xC9tude en Cours: \xC9valuation de la Capacit\xE9 des Mod\xE8les de Langage \xE0 Simuler le Discours de Patients lors de Th\xE9rapies: Impact du Fine-Tuning et du Conditionnement"
@@ -42,7 +46,7 @@ papers:
     title: Adapting conversational strategies to co-optimize agent's task performance and user's engagement
     year: '2022'
   mVab0u4AAAAJ:eQOLeE2rZwMC:
-    citations: 2
+    citations: 3
     title: 'SMART-DREAM: To Condition or Not to Condition; A Study on the Impact of LLM Conditioning on Motivational Interview Dialog Virtual Agent'
     year: '2025'
   mVab0u4AAAAJ:u-x6o8ySG0sC:
