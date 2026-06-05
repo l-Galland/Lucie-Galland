@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-05'
 papers:
   mVab0u4AAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -66,6 +66,6 @@ papers:
     title: 'Dream-a dialogue manager for dual-level adaptation to context and users'' profile: Tailored Conversations beyond LLMs'
     year: '2025'
   mVab0u4AAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: 'Simulating patient oral dialogues: A study on naturalness and coherence of conditioned large language models'
     year: '2024'
