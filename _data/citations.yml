@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-15'
 papers:
   mVab0u4AAAAJ:2osOgNQ5qMEC:
     citations: 5
     title: 'Seeing and Hearing What Has Not Been Said: A multimodal client behavior classifier in Motivational Interviewing with interpretable fusion'
     year: '2024'
   mVab0u4AAAAJ:9yKSN-GCB0IC:
-    citations: 18
+    citations: 20
     title: Adapting conversational strategies in information-giving human-agent interaction
     year: '2022'
   mVab0u4AAAAJ:IjCSPb-OGe4C:
-    citations: 5
+    citations: 6
     title: Generating unexpected yet relevant user dialog acts
     year: '2024'
   mVab0u4AAAAJ:LkGwnXOMwfcC:
@@ -26,7 +26,7 @@ papers:
     title: 'Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager'
     year: '2025'
   mVab0u4AAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'Greta 2.0: Social Interactive Agent system, optimized for neural network integration'
     year: '2025'
   mVab0u4AAAAJ:Y0pCki6q_DkC:
@@ -34,7 +34,7 @@ papers:
     title: 'GRETA: Modular Platform to Create Adaptive Socially Interactive Agents'
     year: '2025'
   mVab0u4AAAAJ:YsMSGLbcyi4C:
-    citations: 8
+    citations: 10
     title: "EMMI\u2013Empathic Multimodal Motivational Interviews: automatic multimodal features extraction and patient type definition"
     year: '2025'
   mVab0u4AAAAJ:_FxGoFyzp5QC:
@@ -46,13 +46,13 @@ papers:
     title: Adapting conversational strategies to co-optimize agent's task performance and user's engagement
     year: '2022'
   mVab0u4AAAAJ:eQOLeE2rZwMC:
-    citations: 3
+    citations: 5
     title: 'SMART-DREAM: To Condition or Not to Condition; A Study on the Impact of LLM Conditioning on Motivational Interview Dialog Virtual Agent'
     year: '2025'
   mVab0u4AAAAJ:roLk4NBRz8UC:
     citations: 0
-    title: 'DREAM-Meta Learning for Tailored Hierarchical Dialogue Management: Application to Motivational Interview'
-    year: Unknown Year
+    title: "DREAM\u2014Meta learning for tailored hierarchical dialogue management: application to motivational interview"
+    year: '2026'
   mVab0u4AAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: Adaptive conversational agent using reinforcement learning
