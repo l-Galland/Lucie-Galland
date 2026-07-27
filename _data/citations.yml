@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   mVab0u4AAAAJ:2osOgNQ5qMEC:
     citations: 6
-    title: 'Seeing and Hearing What Has Not Been Said: A multimodal client behavior classifier in Motivational Interviewing with interpretable fusion'
-    year: '2024'
+    title: Seeing and hearing what has not been said; A multimodal client behavior classifier in Motivational Interviewing with interpretable fusion
+    year: '2023'
   mVab0u4AAAAJ:9yKSN-GCB0IC:
     citations: 20
     title: Adapting conversational strategies in information-giving human-agent interaction
@@ -22,7 +22,7 @@ papers:
     title: "\xC9tude en Cours: \xC9valuation de la Capacit\xE9 des Mod\xE8les de Langage \xE0 Simuler le Discours de Patients lors de Th\xE9rapies: Impact du Fine-Tuning et du Conditionnement"
     year: '2024'
   mVab0u4AAAAJ:W7OEmFMy1HYC:
-    citations: 3
+    citations: 5
     title: 'Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager'
     year: '2025'
   mVab0u4AAAAJ:WF5omc3nYNoC:
@@ -34,7 +34,7 @@ papers:
     title: 'GRETA: Modular Platform to Create Adaptive Socially Interactive Agents'
     year: '2025'
   mVab0u4AAAAJ:YsMSGLbcyi4C:
-    citations: 10
+    citations: 11
     title: "EMMI\u2013Empathic Multimodal Motivational Interviews: automatic multimodal features extraction and patient type definition"
     year: '2025'
   mVab0u4AAAAJ:_FxGoFyzp5QC:
@@ -66,6 +66,6 @@ papers:
     title: 'Dream-a dialogue manager for dual-level adaptation to context and users'' profile: Tailored Conversations beyond LLMs'
     year: '2025'
   mVab0u4AAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 9
     title: 'Simulating patient oral dialogues: A study on naturalness and coherence of conditioned large language models'
     year: '2024'
